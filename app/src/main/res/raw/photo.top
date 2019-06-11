@@ -1,0 +1,11 @@
+topic: ~photo()
+
+concept:(拍照) ["take photo" "拍照" "茄子"]
+concept:(取消) ["取消" cancel]
+concept:(返回) [back "返回"]
+concept:(打印) [打印]
+
+u:(~拍照) 拍照中，请等待
+u:(~取消) 好的
+u:(~返回) 期待您再次光临
+u:(~打印) 将开启打印，请等待

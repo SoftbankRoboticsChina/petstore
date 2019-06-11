@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="main_img">110dp</dimen>
+    <dimen name="main_txt_sp">22sp</dimen>
+    <dimen name="main_padding">20dp</dimen>
+    <dimen name="main_lay_margin_top">180dp</dimen>
+    <dimen name="main_txt_margin_top">15dp</dimen>
+    <dimen name="main_txt_theme_size">120sp</dimen>
+
+    <dimen name="pet_picture_radius">130dp</dimen>
+
+    <dimen name="pet_img_width">600dp</dimen>
+    <dimen name="pet_img_height">350dp</dimen>
+    <dimen name="pet_img_margin_top">80dp</dimen>
+    <dimen name="pet_txt_size">35sp</dimen>
+    <dimen name="pet_txt_margin_bottom">40dp</dimen>
+    <dimen name="pet_txt_welcome_size">50sp</dimen>
+
+    <dimen name="photo_img_height">400dp</dimen>
+    <dimen name="photo_img_width">300dp</dimen>
+    <dimen name="photo_img_margin_left">60dp</dimen>
+    <dimen name="photo_img_margin_right">60dp</dimen>
+    <dimen name="photo_img_margin_top">30dp</dimen>
+    <dimen name="photo_txt_guide_margin_left">50dp</dimen>
+    <dimen name="photo_txt_guide_margin_right">50dp</dimen>
+    <dimen name="photo_txt_guide_size">43sp</dimen>
+    <dimen name="photo_txt_photo_width">110dp</dimen>
+    <dimen name="photo_txt_photo_height">60dp</dimen>
+    <dimen name="photo_txt_photo_margin_bottom">20dp</dimen>
+    <dimen name="photo_txt_photo_size">28sp</dimen>
+    <dimen name="photo_lay_picture">560dp</dimen>
+    <dimen name="photo_img_picture">500dp</dimen>
+    <dimen name="photo_img_picture_width">300dp</dimen>
+
+    <dimen name="welcome_lay_width">580dp</dimen>
+    <dimen name="welcome_txt_theme_size">110sp</dimen>
+    <dimen name="welcome_txt_size">35sp</dimen>
+    <dimen name="welcome_txt_margin_top">20dp</dimen>
+
+    <dimen name="dialog_pet_txt_code_guide_margin_top">8dp</dimen>
+    <dimen name="dialog_pet_txt_code_guide_margin_bottom">30dp</dimen>
+    <dimen name="dialog_pet_txt_size">20sp</dimen>
+
+    <dimen name="title_img_width">55dp</dimen>
+    <dimen name="title_img_height">50dp</dimen>
+    <dimen name="title_img_margin_top">15dp</dimen>
+    <dimen name="title_img_margin_left">20dp</dimen>
+    <dimen name="title_img_margin_bottom">15dp</dimen>
+
+    <dimen name="margin_common_1dp">1dp</dimen>
+    <dimen name="margin_common_5dp">5dp</dimen>
+    <dimen name="margin_common_10dp">10dp</dimen>
+    <dimen name="margin_common_12dp">12dp</dimen>
+    <dimen name="margin_common_15dp">15dp</dimen>
+    <dimen name="margin_common_20dp">20dp</dimen>
+    <dimen name="margin_common_25dp">25dp</dimen>
+    <dimen name="margin_common_30dp">30dp</dimen>
+    <dimen name="margin_common_35dp">35dp</dimen>
+    <dimen name="margin_common_50dp">50dp</dimen>
+    <dimen name="margin_common_60dp">60dp</dimen>
+    <dimen name="margin_common_80dp">80dp</dimen>
+    <dimen name="margin_common_100dp">100dp</dimen>
+    <dimen name="margin_common_110dp">110dp</dimen>
+
+    <dimen name="text_common_5sp">5sp</dimen>
+    <dimen name="text_common_10sp">10sp</dimen>
+    <dimen name="text_common_12sp">12sp</dimen>
+    <dimen name="text_common_14sp">14sp</dimen>
+    <dimen name="text_common_15sp">15sp</dimen>
+    <dimen name="text_common_16sp">16sp</dimen>
+    <dimen name="text_common_18sp">18sp</dimen>
+    <dimen name="text_common_20sp">20sp</dimen>
+    <dimen name="text_common_22sp">22sp</dimen>
+    <dimen name="text_common_24sp">24sp</dimen>
+    <dimen name="text_common_25sp">25sp</dimen>
+    <dimen name="text_common_26sp">26sp</dimen>
+    <dimen name="text_common_28sp">28sp</dimen>
+    <dimen name="text_common_30sp">30sp</dimen>
+    <dimen name="text_common_32sp">32sp</dimen>
+    <dimen name="text_common_35sp">35sp</dimen>
+    <dimen name="text_common_50sp">40sp</dimen>
+    <dimen name="text_common_80sp">50sp</dimen>
+
+    <dimen name="title_bar_txt_size">35sp</dimen>
+
+    <dimen name="printer_btn_sample_receipt">200dp</dimen>
+    <dimen name="printer_btn_sample_coupon">200dp</dimen>
+
+    <dimen name="width_common_60dp">60dp</dimen>
+    <dimen name="width_common_115dp">115dp</dimen>
+
+    <dimen name="height_common_115dp">115dp</dimen>
+    <dimen name="height_common_60dp">60dp</dimen>
+
+
+</resources>

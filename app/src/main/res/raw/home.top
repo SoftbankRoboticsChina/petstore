@@ -1,0 +1,12 @@
+topic: ~home()
+
+concept:(pet) [pet "宠物之家"]
+concept:(dance) [dance "舞蹈"]
+concept:(photo) [photo "take photo" "拍照"]
+concept:(voucher) [print "打印"]
+concept:(back) ["返回"]
+
+u:(~pet) ~pet
+u:(~dance) 舞蹈
+u:(~photo) [拍照中 请稍等]
+u:(~back) [期待您的再次光临]

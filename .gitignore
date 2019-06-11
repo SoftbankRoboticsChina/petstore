@@ -1,0 +1,12 @@
+# Created by .ignore support plugin (hsz.mobi)
+/petstore.iml
+.gradle/
+.idea/*
+/app/app.iml
+/Spec.md
+/local.properties
+*.iml
+.gradle
+.DS_Store
+.idea
+build/**/*

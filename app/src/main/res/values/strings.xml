@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">宠物商店</string>
+    <string name="hello">您好</string>
+    <string name="sir">先生</string>
+    <string name="lady">女士</string>
+    <string name="say_hello">你好，我是你的购物助手Pepper，请问有什么可以帮您？</string>
+    <string name="welcome_help">你好,请问有什么可以帮您.</string>
+    <string name="main_guide"> 您可以对我说:宠物之家,舞蹈,拍照,来开始我们的互动吧</string>
+    <string name="errorSql">执行出错，请检查SQL语句</string>
+    <string name="successSql">执行SQL语句成功</string>
+    <string name="unableSql">Sorry，还没处理select语句</string>
+
+    <string name="dance_guide">为了感谢您的对于宠物的喜爱，让我来为你献上一支舞.</string>
+
+    <string name="pet_store_home">宠物之家</string>
+    <string name="dance">舞蹈</string>
+    <string name="main_take_photo">拍照</string>
+    <string name="print_voucher">打印凭证</string>
+    <string name="title_printer">打印凭证</string>
+
+    <string name="main_pet_home_start">好的，将为您呈现萌宠物。</string>
+    <string name="main_pet_dance_start">好的，为了感谢您的对于宠物的喜爱，让我来为你献上一支舞，你也可以抱着萌宠和我一起跳起来。</string>
+    <string name="main_pet_photo_start">好的，将为您开启相机。</string>
+
+    <string name="txt_like_choice">您喜欢这个宠物吗? (喜欢/不喜欢)</string>
+    <string name="take_photo">拍照</string>
+    <string name="take_photo_eggplant">茄子</string>
+    <string name="take_photo_guide">这是你和萌宠第一次遇见，请让我来为你们拍个合照，您可以说茄子进行拍照，您也可以说返回退出拍照页面</string>
+    <string name="back">返回</string>
+    <string name="take_photo_print">打印</string>
+    <string name="take_photo_print_guide">您要打印这张图片吗？</string>
+
+    <string name="welcome_theme">pepper</string>
+    <string name="welcome_pet_store">Pet Store</string>
+
+    <string name="pet_store_welcome">您好，本商店有非常多的宠物\n让我帮您挑选一只适合您的萌宠吧</string>
+
+    <string name="pet_pay_guide">请扫描二维码支付定金，然后去后台挑选萌宠吧.</string>
+    <string name="pet_guide">您好，本商店有非常多的宠物，让我帮您挑选一只适合您的萌宠</string>
+    <string name="pet_guide_like">您喜欢这个宠物吗？</string>
+    <string name="pet_like">喜欢</string>
+    <string name="pet_no_like">不喜欢</string>
+    <string name="pet_recommend_like">您喜欢这个推荐的宠物吗？</string>
+
+    <string name="toast_install_app">请先安装该类应用</string>
+    <string name="pey_say_app">不明白你说啥</string>
+
+    <string name="store_cancel">取消</string>
+    <string name="store_sure">确定</string>
+
+    <string name="db_toast_repeat">主键重复</string>
+
+    <string name="main_string_dance">舞\t蹈</string>
+    <string name="main_string_take_photo">拍\t照</string>
+    <string name="main_string_pet_home">宠物\n之家</string>
+
+    <string name="pet_recommend">根据我的观察，这只萌宠适合</string>
+    <string name="pet_recommend_age">多岁</string>
+    <string name="pet_recommend_boy">男生</string>
+    <string name="pet_recommend_girl">女生</string>
+    <string name="pet_recommend_child">儿童</string>
+    <string name="pet_recommend_age_low_ten">低于10岁</string>
+    <string name="pet_recommend_u">您</string>
+
+    <string name="take_photo_guide_print_reset">您可以说打印，开始打印您的照片，或者说取消重新拍照。</string>
+
+    <string name="check_appid_key">您讯飞的appid错误或者为空，请确认您的appid以便讯飞语义理解可以正常工作。</string>
+
+    <string name="category_dance">跳舞</string>
+    <string name="category_take_photo">拍照</string>
+    <string name="category_game">游戏</string>
+    <string name="category_chat">聊天</string>
+    <string name="category_music">音乐</string>
+
+    <string name="category_apps_not_install">没有安装此类应用</string>
+</resources>

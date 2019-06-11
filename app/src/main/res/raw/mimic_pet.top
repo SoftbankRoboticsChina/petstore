@@ -1,0 +1,7 @@
+topic: ~mimic_pet()
+
+proposal: %mimic_proposal 您喜欢这个宠物吗
+    u1: (喜欢) OK, 请扫码支付 带走您的萌宠吧 %like_mimic
+    u1: (不喜欢) OK, 我将重新为您选择适合您的萌宠 %unlike_mimic
+    u1: (返回) 期待您的再次光临 %back_mimic
+
